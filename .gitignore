@@ -1,0 +1,5 @@
+*~
+*.o
+*.d
+/demo/demo
+/.libs/
